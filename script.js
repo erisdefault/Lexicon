@@ -4,7 +4,7 @@ const resultDiv = document.getElementById('result');
 const savedWordsDiv = document.getElementById('saved-words');
 
 // Replace with your actual API key and endpoint
-const API_KEY = 'b87824d9-a1b2-4a99-b8f1-5f0e155e44a1';
+const API_KEY = 'PASTE_YOUR_API_KEY_KERE';
 const BASE_URL = 'https://www.dictionaryapi.com/api/v3/references/collegiate/json/';
 
 form.addEventListener('submit', async (e) => {
